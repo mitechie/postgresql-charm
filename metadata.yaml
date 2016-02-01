@@ -1,5 +1,7 @@
 name: postgresql
-summary: "PostgreSQL object-relational SQL database (supported version)"
+summary: "Demo PostgreSQL object-relational SQL database (supported version)"
+series:
+  - trusty
 description: |
   PostgreSQL is a powerful, open source object-relational database system.
   It has more than 15 years of active development and a proven
